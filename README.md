@@ -42,6 +42,6 @@ For a website spesifically for archiving stories, this website is a good one. Th
 2. Fill empty spaces
 3. Move the sidebar to navbar in User section
 
-![FanFiction Net User section](Images/Fanfiction.net_user.png)
+![FanFiction Net User section](Image/Fanfiction.net_user.png)
 
 ### 3. Reddit.com
