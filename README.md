@@ -23,7 +23,7 @@ This browser will cause many inconveniences for its users. For one, the menu bar
 1. Unhide the menu bar
 2. Add a side bar or proper address bar
 
-![Internet Explorer]
+![Internet Explorer](Image/Screenshot%20(85).png)
 
 ### 2. Fanfiction.net
 **Brief Description:** \
