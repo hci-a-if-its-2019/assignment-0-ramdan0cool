@@ -45,3 +45,5 @@ For a website spesifically for archiving stories, this website is a good one. Th
 ![FanFiction Net User section](Image/Fanfiction.net_user.png)
 
 ### 3. Reddit.com
+
+[Video here](Internet Explorer%20+%20Reddit.mp4)     
