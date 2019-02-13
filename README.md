@@ -46,4 +46,4 @@ For a website spesifically for archiving stories, this website is a good one. Th
 
 ### 3. Reddit.com
 
-[Video here](assignment-0-ramdan0cool/Internet Explorer%20+%20Reddit.mp4)     
+[Video here](https://github.com/hci-a-if-its-2019/assignment-0-ramdan0cool/blob/master/Internet%20Explorer%20%2B%20Reddit.mp4)     
