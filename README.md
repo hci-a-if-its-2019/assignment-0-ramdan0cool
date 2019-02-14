@@ -49,7 +49,16 @@ For a website spesifically for archiving stories, this website is a good one. Th
 Reddit (/ˈrɛdɪt/, stylized in its logo as reddit) is an American social news aggregation, web content rating, and discussion website. Registered members submit content to the site such as links, text posts, and images, which are then voted up or down by other members. Posts are organized by subject into user-created boards called "subreddits", which cover a variety of topics including news, science, movies, video games, music, books, fitness, food, and image-sharing. ([Source](https://en.wikipedia.org/wiki/Reddit))
 
 **Personal Opinion:**
-Reddit 
+On first look, Reddit drsktop seems rather uninteresting compared to its andtoid counterpart. The way posts shown on homescreen is uneven, and if it's a long post, will make it look just like a generic blogspot, something a website made for having and sharing funny or amazing moments should try to avoid.
+
+**Problems:**
+1. Lackluster posts positioning
+2. Uneven length between posts.
+3. Less attractive than android counterpart
+
+**Suggestions:**
+1. Even out the posts length, by hiding the rest of the post or making a grid like layout.
+
 
 
 Credits:
